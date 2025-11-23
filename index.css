@@ -1,0 +1,35 @@
+.background {
+	background: aquamarine;
+}
+.center{
+	
+	font-family: arial;
+
+}
+p{
+	font-size: 20px;
+}
+.chan{
+	color: red;
+}
+.chan2{
+	color: grey;
+}
+h2{
+	color: purple;
+
+}
+.img{
+	padding-left: 50 px;
+
+}
+.img2{
+	position: absolute;
+	padding-left: 100px;add
+	
+}
+.tex{
+	position: relative;
+	top: -30px;
+	margin-left: 700px;
+}
